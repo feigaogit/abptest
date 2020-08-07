@@ -1,0 +1,32 @@
+DEBUG 2020-08-07 14:53:08,881 [4    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-08-07 14:53:09,045 [4    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-08-07 14:53:09,091 [4    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-08-07 14:53:09,111 [4    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyProject
+DEBUG 2020-08-07 14:53:09,600 [4    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-08-07 14:53:09,717 [4    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[MyProject.MultiTenancy.Tenant, MyProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[MyProject.Authorization.Users.User, MyProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-08-07 14:54:01,166 [5    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-08-07 14:54:01,313 [5    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-08-07 14:54:01,358 [5    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-08-07 14:54:01,376 [5    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyProject
+DEBUG 2020-08-07 14:54:01,878 [5    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-08-07 14:54:02,010 [5    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[MyProject.MultiTenancy.Tenant, MyProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[MyProject.Authorization.Users.User, MyProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-08-07 14:54:05,054 [5    ] Abp.BackgroundJobs.BackgroundJobManager  - Stop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-08-07 14:54:05,055 [5    ] , Culture=neutral, PublicKeyToken=null]] - Stop background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[MyProject.MultiTenancy.Tenant, MyProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[MyProject.Authorization.Users.User, MyProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-08-07 14:54:05,056 [5    ] Abp.BackgroundJobs.BackgroundJobManager  - WaitToStop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-08-07 14:54:05,056 [5    ] , Culture=neutral, PublicKeyToken=null]] - WaitToStop background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[MyProject.MultiTenancy.Tenant, MyProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[MyProject.Authorization.Users.User, MyProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-08-07 14:57:14,938 [4    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-08-07 14:57:15,081 [4    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-08-07 14:57:15,131 [4    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-08-07 14:57:15,153 [4    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyProject
+DEBUG 2020-08-07 14:57:15,668 [4    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-08-07 14:57:15,783 [4    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[MyProject.MultiTenancy.Tenant, MyProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[MyProject.Authorization.Users.User, MyProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-08-07 14:58:16,340 [4    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-08-07 14:58:16,475 [4    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-08-07 14:58:16,524 [4    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-08-07 14:58:16,543 [4    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyProject
+DEBUG 2020-08-07 14:58:17,028 [4    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-08-07 14:58:17,153 [4    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[MyProject.MultiTenancy.Tenant, MyProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[MyProject.Authorization.Users.User, MyProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-08-07 14:58:24,248 [4    ] Abp.BackgroundJobs.BackgroundJobManager  - Stop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-08-07 14:58:24,248 [4    ] , Culture=neutral, PublicKeyToken=null]] - Stop background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[MyProject.MultiTenancy.Tenant, MyProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[MyProject.Authorization.Users.User, MyProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-08-07 14:58:24,250 [4    ] Abp.BackgroundJobs.BackgroundJobManager  - WaitToStop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-08-07 14:58:24,250 [4    ] , Culture=neutral, PublicKeyToken=null]] - WaitToStop background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[MyProject.MultiTenancy.Tenant, MyProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[MyProject.Authorization.Users.User, MyProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
